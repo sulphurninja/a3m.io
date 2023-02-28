@@ -4,15 +4,15 @@ import { allBlogs } from '.contentlayer/data';
 
 async function generate() {
   const feed = new RSS({
-    title: 'Segun Adebayo',
-    site_url: 'https://adebayosegun.com',
-    feed_url: 'https://adebayosegun.com/feed.xml',
+    title: 'A3M NextGen',
+    site_url: 'http://localhost:3000',
+    feed_url: 'ttp://localhost:3000',
   });
 
   allBlogs.map((blog) => {
     feed.item({
       title: blog.title,
-      url: `https://adebayosegun.com/blog/${blog.slug}`,
+      url: `http://localhost.com/blog/${blog.slug}`,
       date: blog.publishedAt,
       description: blog.description,
     });
