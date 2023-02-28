@@ -60,7 +60,7 @@ function NavItem(props: NavItemProps) {
 
 const items = [
   // { label: 'Talks', href: '/talks', icon: TalksIcon },
-  { label: 'Blog', href: '/blog', icon: BlogIcon },
+  { label: 'Privacy', href: '/privacy', icon: BlogIcon },
   { label: 'Projects', href: '/projects', icon: ProjectIcon },
   { label: 'About us', href: '/AboutUs', icon: SnippetIcon },
 ];
