@@ -4,7 +4,7 @@ import RSS from 'rss';
 
 async function generate() {
   const feed = new RSS({
-    title: 'A3M NextGen',
+    title: 'A3M NextGe',
     site_url: 'http://localhost:3000',
     feed_url: 'ttp://localhost:3000',
   });
