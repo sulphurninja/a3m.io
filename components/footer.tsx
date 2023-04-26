@@ -43,7 +43,7 @@ export default function Footer() {
               Contact
             </Heading>
             <Flex direction="column" gap="4">
-              <FooterLink href={siteConfig.profiles.email}>Email </FooterLink>
+              <FooterLink href={siteConfig.profiles.email}>Email : info@a3m.io </FooterLink>
              <h1>Address: <address>A3M NextGen Pvt.Ltd, Bijli Nagar, Pune - 411033</address></h1>
             </Flex>
           </GridItem>
