@@ -26,8 +26,7 @@ const shared = {
   website: 'https://a3m.io',
   title:
     'A3M.io - Software Solutions',
-  description:
-    'A3M NextGen is a leading technology company that provides cutting-edge solutions to businesses and startups. Our team of experienced developers, designers, and project managers is passionate about creating technology-driven solutions that solve complex challenges in various industries. We leverage modern and new technology to ensure our projects are impactful and revolutionary, spanning across software development, gaming, mobile apps, and more. Our commitment to quality, timeliness, and customer satisfaction has earned us a reputation as a valuable technology partner. If you're looking for a challenging and rewarding career in technology, A3M NextGen is the place to be. We believe in code that creates an impact and designs that leave a mark.',
+  description: 'A3M NextGen is a leading technology company that provides cutting-edge solutions to businesses and startups. We leverage modern and new technology to ensure our projects are impactful and revolutionary, spanning across software development, gaming, mobile apps, and more. Our commitment to quality, timeliness, and customer satisfaction has earned us a reputation as a valuable technology partner. If you are looking for a challenging and rewarding career in technology, A3M NextGen is the place to be. We believe in code that creates an impact and designs that leave a mark.',
   image: 'https://res.cloudinary.com/dxcer6hbg/image/upload/v1683292202/ccctpf5aqjdm7o9zypsn.jpg',
 };
 
