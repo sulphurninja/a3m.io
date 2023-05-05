@@ -27,8 +27,8 @@ const shared = {
   title:
     'A3M.io - Software Solutions',
   description:
-    'We excel in variety of domains from healtcare to betting software solutions, we got you covered!',
-  image: 'https://adebayosegun.com/static/images/banner.png',
+    'A3M NextGen is a leading technology company that provides cutting-edge solutions to businesses and startups. Our team of experienced developers, designers, and project managers is passionate about creating technology-driven solutions that solve complex challenges in various industries. We leverage modern and new technology to ensure our projects are impactful and revolutionary, spanning across software development, gaming, mobile apps, and more. Our commitment to quality, timeliness, and customer satisfaction has earned us a reputation as a valuable technology partner. If you're looking for a challenging and rewarding career in technology, A3M NextGen is the place to be. We believe in code that creates an impact and designs that leave a mark.',
+  image: 'https://res.cloudinary.com/dxcer6hbg/image/upload/v1683292202/ccctpf5aqjdm7o9zypsn.jpg',
 };
 
 const siteConfig = {
@@ -41,8 +41,8 @@ const siteConfig = {
   siteUrl: shared.website,
   profiles: {
     github: 'https://github.com/sulphurninja',
-    twitter: 'https://twitter.com/thesegunadebayo',
-    linkedin: 'https://linkedin.com/in/thesegunadebayo',
+    twitter: 'https://twitter.com/a3mnextgen',
+    linkedin: 'https://linkedin.com/company/a3mnextgen',
     email: 'mailto:aditya@a3m.io',
   },
   repo: {
@@ -50,8 +50,8 @@ const siteConfig = {
     editUrl: shared.editUrl,
   },
   twitter: {
-    handle: '@thesegunadebayo',
-    site: '@thesegunadebayo',
+    handle: '@a3mnextgen',
+    site: '@a3mnextgen',
     cardType: 'summary_large_image',
   },
   openGraph: {
@@ -63,10 +63,10 @@ const siteConfig = {
     description: shared.description,
     images: [
       {
-        url: 'https://adebayosegun.com/static/images/banner.png',
+        url: 'https://res.cloudinary.com/dxcer6hbg/image/upload/v1683292202/ccctpf5aqjdm7o9zypsn.jpg',
         width: 1200,
         height: 630,
-        alt: 'Segun Adebayo (aka Sage) - UI Engineer (Design Systems), Software Developer and Product Designer',
+        alt: 'A3M NextGen is a leading technology company that provides cutting-edge solutions to businesses and startups. Our team of experienced developers, designers, and project managers is passionate about creating technology-driven solutions that solve complex challenges in various industries. We leverage modern and new technology to ensure our projects are impactful and revolutionary, spanning across software development, gaming, mobile apps, and more. Our commitment to quality, timeliness, and customer satisfaction has earned us a reputation as a valuable technology partner.',
       },
     ],
   },
