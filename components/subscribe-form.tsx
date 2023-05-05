@@ -68,7 +68,7 @@ export default function SubscribeForm() {
             aria-label="Enter your email address"
             bg="gray.800"
             rounded="lg"
-            placeholder="sage@apple.com"
+            placeholder="info@a3m.io"
             _placeholder={{ color: 'whiteAlpha.400' }}
           />
           <chakra.button
