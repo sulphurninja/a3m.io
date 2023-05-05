@@ -145,7 +145,7 @@ export default function HomePage() {
 
         <Box maxWidth={{ lg: '27.5rem' }} marginTop="4">
           <Text fontSize={{ base: 'md', md: 'xl' }}>
-          Our company consists of skilled professionals offering a wide range of services, from<Text fontWeight="bold"> custom-built betting apps, games, mobile/desktop apps, e-commerce platforms, to landing pages.</Text> Our expertise spans multiple domains, enabling us to handle every project with skill and dexterity. Contact us to discover how we can provide <Text fontWeight="bold"> unrivaled solutions for your business!</Text>
+          Our company consists of skilled professionals offering a wide range of services, from<Text fontWeight="bold"> custom-built mobile/desktop apps, games, e-commerce platforms, to landing pages.</Text> Our expertise spans multiple domains, enabling us to handle every project with skill and dexterity. Contact us to discover how we can provide <Text fontWeight="bold"> unrivaled solutions for your business!</Text>
           </Text>
           {/* Profile links */}
           <SimpleGrid columns={2} marginTop="10" spacing="10" maxWidth="16rem">
