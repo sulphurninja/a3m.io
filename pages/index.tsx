@@ -224,7 +224,7 @@ export default function HomePage() {
         <Wrap spacing="10">
           {tools.map((tool) => (
             <WrapItem fontFamily="heading" fontSize="3xl" color="red.400" key={tool}>
-              {tool}
+              <img src={tool +'.svg'} alt={tool} />
             </WrapItem>
           ))}
         </Wrap>
