@@ -55,15 +55,18 @@ export default function Footer() {
             <Flex direction="column" gap="4">
               <FooterLink href="/privacy">Privacy Policy</FooterLink>
               <FooterLink href="/intellectualproperty">Intellectual Property Policy</FooterLink>
-  
+
             </Flex>
           </GridItem>
         </SimpleGrid>
-
         <Text marginTop="20" textAlign="center">
-          All rights reserved &copy; A3M NextGen Pvt.Ltd {new Date().getFullYear()}
+        All rights reserved &copy; A3M NextGen Pvt.Ltd {new Date().getFullYear()}
+        </Text>
+        <Text background={'white'} marginTop="20" textAlign="center">
+          <img src='skillindia.png' style={{height:"150px", marginLeft:"40%"}} />
         </Text>
       </Box>
     </Box>
   );
 }
+
