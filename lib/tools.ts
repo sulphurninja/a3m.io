@@ -1,6 +1,6 @@
 const tools = [
   'reactjs',
-  'typeScript',
+  'typescript',
   'tailwind',
   'unity',
   'solidity',
@@ -11,7 +11,7 @@ const tools = [
   'nextjs',
   'swift',
   'vercel',
-  'android Studio',
+  'android studio',
   'flutter',
 ];
 
